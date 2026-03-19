@@ -23,6 +23,17 @@
 
 ---
 
+## 🚀 Quick Start
+
+Once installed and permissions are granted:
+
+1. Open the **YoukiDEX** app and configure your basic settings
+2. Navigate to your device's **notification/status bar**
+3. Add the **YoukiDEX shortcut** tile to your quick settings panel
+4. Tap the shortcut — and you're in! 🎉
+
+---
+
 ## ⚠️ Important
 
 Some features require granting elevated permissions via ADB. Without them, certain functions like secure settings or recent apps will not work.
@@ -37,10 +48,9 @@ adb shell appops set com.youki.dex GET_USAGE_STATS allow
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrYouki/YoukiDex-Android-Desktop/main/Screenshot_1.png" width="90%"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrYouki/YoukiDex-Android-Desktop/main/Screenshot_2.png" width="90%"/>
+  <img src="https://raw.githubusercontent.com/mrYouki/YoukiDex-Android-Desktop/main/Screenshot_1.png" width="45%"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/mrYouki/YoukiDex-Android-Desktop/main/Screenshot_2.png" width="45%"/>
 </p>
 
 ---
