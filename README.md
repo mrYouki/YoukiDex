@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/mrYouki/YoukiDex-Android-Desktop/releases">
-    <img src="https://img.shields.io/github/v/release/mrYouki/YoukiDex-Android-Desktop?style"/>
+    <img src="https://img.shields.io/github/v/release/mrYouki/YoukiDex-Android-Desktop?style=for-the-badge" alt="Latest release"/>
   </a>
   <a href="https://github.com/mrYouki/YoukiDex-Android-Desktop/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/mrYouki/YoukiDex-Android-Desktop?style=for-the-badge" alt="License"/>
@@ -47,7 +47,7 @@ adb shell appops set com.youki.dex GET_USAGE_STATS allow
 
 ## 📋 Changelog
 
-### 🔥 v2.1-hotfix
+### 🔥 2.1hotfix
 > Critical bug fixes based on user reports
 
 **Fixed:**
@@ -90,7 +90,7 @@ adb shell appops set com.youki.dex GET_USAGE_STATS allow
 
 | Source | Link |
 |--------|------|
-| 📦 GitHub Releases | [Download APK](https://github.com/mrYouki/YoukiDex-Android-Desktop/releases/tag/v2.1-hotfix) |
+| 📦 GitHub Releases | [Download APK](https://github.com/mrYouki/YoukiDex-Android-Desktop/releases/tag/2.1hotfix) |
 | 🔧 Obtainium | [Add via Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/mrYouki/YoukiDex-Android-Desktop) |
 
 ---
