@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/mrYouki/YoukiDex-Android-Desktop/releases">
-    <img src="https://img.shields.io/github/v/release/mrYouki/YoukiDex-Android-Desktop?style=for-the-badge" alt="Latest release"/>
+    <img src="https://img.shields.io/github/v/release/mrYouki/YoukiDex-Android-Desktop?style"/>
   </a>
   <a href="https://github.com/mrYouki/YoukiDex-Android-Desktop/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/mrYouki/YoukiDex-Android-Desktop?style=for-the-badge" alt="License"/>
