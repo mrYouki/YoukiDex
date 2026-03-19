@@ -15,7 +15,7 @@
   <a href="https://github.com/mrYouki/YoukiDex-Android-Desktop/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/mrYouki/YoukiDex-Android-Desktop?style=for-the-badge" alt="License"/>
   </a>
-  <a href="https://github.com/mrYouki/YoukiDex-Android-Desktop/releases/tag/v2.1-hotfix">
+  <a href="https://github.com/mrYouki/YoukiDex-Android-Desktop/releases/tag/2.1hotfix">
     <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK"/>
   </a>
   <img src="https://img.shields.io/badge/Android-7.0%2B-green?style=for-the-badge&logo=android" alt="Android"/>
