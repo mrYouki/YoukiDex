@@ -1,0 +1,21 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:icon="@drawable/ic_info"
+        android:title="@string/please_note_that_you_must_prov"/>
+    <com.youki.dex.preferences.FileChooserPreference
+        android:key="startup_sound"
+        android:title="@string/startup_sound_title"/>
+    <com.youki.dex.preferences.FileChooserPreference
+        android:key="usb_sound"
+        android:title="@string/usb_sound_title"/>
+    <com.youki.dex.preferences.FileChooserPreference
+        android:key="notification_sound"
+        android:title="@string/notification_sound_title"/>
+    <com.youki.dex.preferences.FileChooserPreference
+        android:key="charge_sound"
+        android:title="@string/charge_sound_title"/>
+    <com.youki.dex.preferences.FileChooserPreference
+        android:key="charge_complete_sound"
+        android:title="@string/charge_complete_sound_title"/>
+    
+</PreferenceScreen>
